@@ -1,2 +1,2 @@
-# Python_Programming_Basics_September
+# Python Programming Basics September
 All tasks from SoftUni Python Programming Basics Course
